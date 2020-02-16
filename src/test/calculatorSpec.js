@@ -7,7 +7,7 @@ describe("calculator", () => {
   });
   it("ajax request", async () => {
     let result = await ajaxRequest();
-    let data = result.data;
-    expect(data.data.length).to.equal(24)
+    let { data } = result; //?
+    expect(data.data.length).to.equal(24);
   });
 });
