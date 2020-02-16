@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/smarigowda/wallabyjs-node-example-1#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "chai": "^4.2.0"
   }
 }
