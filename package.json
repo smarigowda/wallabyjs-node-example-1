@@ -1,0 +1,23 @@
+{
+  "name": "wallabyjs-node-example-1",
+  "version": "1.0.0",
+  "description": "Sample project to show how to use Wallaby js for Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smarigowda/wallabyjs-node-example-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smarigowda/wallabyjs-node-example-1/issues"
+  },
+  "homepage": "https://github.com/smarigowda/wallabyjs-node-example-1#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
